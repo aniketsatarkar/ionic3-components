@@ -86,6 +86,71 @@
         "code",
         "infra"
       ]
+    },
+    {
+      "login": "jeronimonascimento",
+      "name": "Jerônimo do Nascimento",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16031907?v=4",
+      "profile": "https://github.com/jeronimonascimento",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mateusduraes",
+      "name": "Mateus Duraes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19319404?v=4",
+      "profile": "http://mateusduraes.github.io/",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "nazrdogan",
+      "name": "Nazır Doğan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1672303?v=4",
+      "profile": "https://github.com/nazrdogan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sletheren",
+      "name": "Abdelghafour Rakhma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12659402?v=4",
+      "profile": "http://www.fahrenbyte.com",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "AndreasGassmann",
+      "name": "AndreasGassmann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/680814?v=4",
+      "profile": "https://github.com/AndreasGassmann",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "lucascco",
+      "name": "Lucas Carvalho Corrêa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6581094?v=4",
+      "profile": "https://github.com/lucascco",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stephan-strate",
+      "name": "Stephan Strate",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19595615?v=4",
+      "profile": "https://www.stephan-strate.de/",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
